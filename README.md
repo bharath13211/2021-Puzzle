@@ -1,5 +1,4 @@
-----------------------------------------------------------------------------
-Part 1: The 2021 Puzzle->
+The 2021 Puzzle->
 --------------------
 
 Problem given to us is to obtain goal state from the given state using the pre-defined rotations like particular row/column 
